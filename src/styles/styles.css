@@ -1,0 +1,547 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+ /* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Estilo do header */
+.header {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+  z-index: 10;
+  font-family: 'Times New Roman', serif;
+}
+
+.header .logo {
+  font-size: 28px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.header .menu {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+}
+
+.header .menu li {
+  font-size: 16px;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.header .menu li:hover {
+  color: #555;
+}
+
+/* Estilo da Hero Section */
+.hero-section {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-image: url('../../public/1.png');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0 20px;
+}
+
+.hero-section h1 {
+  font-family: 'Times New Roman', serif;
+  font-size: 48px;
+  font-weight: bold;
+  color: #000;
+  line-height: 1.2;
+  margin-bottom: 10px;
+}
+
+.hero-section p {
+  font-family: 'Times New Roman', serif;
+  font-size: 20px;
+  font-style: italic;
+  color: #000;
+  margin-bottom: 30px;
+}
+
+.hero-section .cta-button {
+  font-family: 'Times New Roman', serif;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #000;
+  border: none;
+  padding: 12px 30px;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: background-color 0.3s ease;
+}
+
+.hero-section .cta-button:hover {
+  background-color: #555;
+}
+
+/* call */
+.call {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  background-color: white;
+}
+
+.call .image-container {
+  width: 100%; 
+  height: 100%;
+}
+
+.call .image-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.call .white-space {
+  width: 40%; /* Ocupa a outra metade da tela */
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.call .white-space p {
+  text-align: center;
+  wrap: flex-wrap;
+  font-family: 'Dancing Script', cursive;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #000;
+  margin: 0; /* Remove a margem padrão */
+}
+
+
+  /* Services Section */
+/* Services Section */
+.services {
+  background-color: #f5f1eb; /* Cor suave, remetendo a elegância e aconchego */
+  padding: 4rem 2rem;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.services h2 {
+  font-size: 2.5rem;
+  font-family: 'Playfair Display', serif; /* Fonte elegante e sofisticada */
+  font-weight: bold;
+  color: #6a4e23; /* Um tom de marrom elegante */
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.services ul {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+.services li {
+  font-size: 1.2rem;
+  font-family: 'Lora', serif; /* Fonte clássica e romântica */
+  color: #4a3f35; /* Cor suave de marrom */
+  background-color: #fff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.services li:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+  background-color: #eae0d6; /* Um tom mais suave de marrom para o hover */
+}
+
+.services li:before {
+  font-size: 2rem;
+  display: block;
+  margin-bottom: 1rem;
+  color: #6a4e23; /* Cor do ícone */
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .services h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .services li {
+    font-size: 1rem;
+    padding: 1rem;
+  }
+}
+
+/*models*/
+/* Estilo geral para a seção de modelos */
+.models {
+  background-color: #f7f1e1; /* Tom suave que remete a elegância */
+  padding: 3rem 2rem;
+  text-align: center;
+  font-family: 'Times New Roman', serif;
+}
+
+.models h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #4e3629;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-style: italic;
+  border-bottom: 2px solid #d1a96c; /* Linha dourada para um toque sofisticado */
+  display: inline-block;
+  padding-bottom: 10px;
+}
+
+.model-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+  padding: 1rem;
+}
+
+.card{
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  font-weight: bold;
+}
+.model-item1 {
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 250px;
+  height: 400px;
+  text-align: center;
+  font-size: 1.5rem;
+  font-family: 'Georgia', serif;
+  color: #4e3629;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+  background-image: url('../../green.png');
+  background-size: cover;
+  background-position: center;
+}
+.model-item2 {
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 250px;
+  height: 400px;
+  text-align: center;
+  font-size: 1.5rem;
+  font-family: 'Georgia', serif;
+  color: #4e3629;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+  background-image: url('../../green-semft.png');
+  background-size: cover;
+  background-position: center;
+}
+.model-item3 {
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 250px;
+  height: 400px;
+  text-align: center;
+  font-size: 1.5rem;
+  font-family: 'Georgia', serif;
+  color: #4e3629;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+  background-image: url('../../black.png');
+  background-size: cover;
+  background-position: center;
+}
+.model-item4 {
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 250px;
+  height: 400px;
+  text-align: center;
+  font-size: 1.5rem;
+  font-family: 'Georgia', serif;
+  color: #4e3629;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+  background-image: url('../../vintage.png');
+  background-size: cover;
+  background-position: center;
+}
+
+
+
+
+
+.model-item::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg, rgba(255, 223, 186, 0.6), rgba(255, 183, 98, 0.6)); /* Fundo suave em tom de dourado */
+  border-radius: 12px;
+  z-index: -1;
+}
+
+.model-item:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  background-color: #f8e0b1; /* Cor suave para o hover */
+}
+
+.model-item span {
+  font-weight: bold;
+  color: #d1a96c; /* Cor dourada para destaque */
+}
+
+
+
+  /* testemunhas */
+.testimonials {
+  padding: 3rem 1rem; /* Espaçamento interno */
+  text-align: center;
+  background-color: #faf5ef; /* Cor de fundo suave que remete a sofisticação */
+  background-image: linear-gradient(180deg, #faf5ef 50%, #f9f3e9 100%);
+}
+
+.testimonials h2 {
+  font-family: "Playfair Display", serif; /* Fonte sofisticada */
+  font-size: 2.8rem; /* Tamanho grande do título */
+  font-weight: 700; /* Negrito mais elegante */
+  color: #5a5a5a; /* Cor neutra e sofisticada */
+  margin-bottom: 2rem;
+  position: relative;
+}
+
+.testimonials h2::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background-color: #d4a373; /* Cor dourada para sofisticação */
+  margin: 0.5rem auto 0; /* Centralizado e com espaçamento */
+  border-radius: 3px;
+}
+
+.testimonials-grid {
+  display: grid;
+  grid-template-columns: 1fr; /* Uma coluna por padrão */
+  gap: 2rem; /* Espaçamento entre os elementos */
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  .testimonials-grid {
+    grid-template-columns: repeat(3, 1fr); /* Três colunas em telas maiores */
+  }
+}
+
+.testimonials blockquote {
+  background-color: #ffffff; /* Fundo branco puro */
+  padding: 2rem; /* Espaçamento interno maior */
+  border-radius: 16px; /* Bordas mais arredondadas */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Sombra mais visível */
+  font-family: "Merriweather", serif; /* Fonte mais elegante */
+  color: #5a5a5a; /* Texto neutro */
+  line-height: 1.8;
+  position: relative;
+}
+
+.testimonials blockquote::before {
+  content: "“"; /* Aspas estilizadas */
+  font-family: "Georgia", serif;
+  font-size: 3rem;
+  color: #d4a373; /* Dourado suave */
+  position: absolute;
+  top: -20px;
+  left: 20px;
+}
+
+.testimonials blockquote::after {
+  content: "”";
+  font-family: "Georgia", serif;
+  font-size: 3rem;
+  color: #d4a373;
+  position: absolute;
+  bottom: -20px;
+  right: 20px;
+}
+
+.testimonials blockquote p {
+  font-size: 1.1rem; /* Texto levemente maior */
+  font-style: italic; /* Texto em itálico */
+  margin-bottom: 1.5rem; /* Mais espaçamento */
+}
+
+.testimonials blockquote footer {
+  font-weight: 700; /* Negrito forte */
+  color: #333; /* Texto mais escuro */
+  text-align: right;
+  margin-top: 1rem;
+}
+
+.testimonials blockquote footer::before {
+  content: "— "; /* Adiciona traço antes do nome */
+  font-weight: normal;
+  color: #5a5a5a; /* Cinza para suavizar */
+}
+
+
+  
+  /* Contact Section */
+  .contact {
+    background: linear-gradient(135deg, #fdfcfb, #f3f1ef); /* Fundo elegante com gradiente claro */
+    padding: 4rem 2rem; /* Espaçamento interno */
+    text-align: center;
+    font-family: "Playfair Display", serif; /* Tipografia elegante */
+    color: #4e4e4e; /* Tom neutro para o texto */
+    border-top: 2px solid #e5e1dc; /* Linha decorativa */
+  }
+  
+  .contact h2 {
+    font-size: 3rem; /* Tamanho grande do título */
+    font-weight: 700;
+    color: #4a4a4a; /* Cor neutra e elegante */
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    position: relative;
+  }
+  
+  .contact h2::after {
+    content: "";
+    display: block;
+    width: 80px;
+    height: 3px;
+    background: #c8ad7f; /* Linha decorativa em tom dourado */
+    margin: 0.8rem auto;
+    border-radius: 2px;
+  }
+  
+  .contact p {
+    font-size: 1.2rem;
+    color: #4e4e4e; /* Tom sofisticado */
+    margin: 0.5rem 0;
+  }
+  
+  .contact a {
+    color: #c8ad7f; /* Links em tom dourado suave */
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .contact a:hover {
+    text-decoration: underline;
+  }
+  
+  .contact-button {
+    margin-top: 2rem;
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #ffffff; /* Botão com texto branco */
+    background: linear-gradient(135deg, #c8ad7f, #a1895f); /* Gradiente dourado */
+    border: 1px solid #a1895f;
+    border-radius: 50px; /* Bordas arredondadas */
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Sombra para elevação */
+  }
+  
+  .contact-button:hover {
+    background: linear-gradient(135deg, #a1895f, #8a724c); /* Efeito escuro no hover */
+    transform: translateY(-3px);
+  }
+  
+  .contact-button:active {
+    transform: translateY(0); /* Sem elevação no clique */
+  }
+  
+  .social-icons {
+    margin-top: 1.5rem;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .social-icons a {
+    font-size: 1.5rem;
+    color: #c8ad7f; /* Ícones dourados */
+    transition: color 0.3s ease;
+  }
+  
+  .social-icons a:hover {
+    color: #a1895f; /* Escurece no hover */
+  }
+  
+  @media (min-width: 768px) {
+    .contact {
+      padding: 5rem 3rem; /* Mais espaçamento para telas maiores */
+    }
+  
+    .contact h2 {
+      font-size: 3.5rem; /* Título maior */
+    }
+  
+    .contact p {
+      font-size: 1.3rem; /* Texto mais legível */
+    }
+  
+    .contact-button {
+      font-size: 1.3rem;
+    }
+  }
+  
+  
+  
+  
