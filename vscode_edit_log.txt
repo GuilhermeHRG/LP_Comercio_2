@@ -4322,3 +4322,111 @@ Usuário: Desconhecido editou o arquivo: cors.json por 0 minutos e 39.46 segundo
 Usuário: Desconhecido fechou o arquivo: cors.json em 28/01/2025 19:36:59
 Usuário: Desconhecido fechou o arquivo: package.json em 28/01/2025 19:37:40
 Usuário: Desconhecido abriu o arquivo: login.tsx em 28/01/2025 19:51:20
+Usuário: Desconhecido abriu o arquivo: Call.jsx em 28/01/2025 20:00:09
+Usuário: Desconhecido abriu o arquivo: Contact.jsx em 28/01/2025 20:00:12
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:01:23 | Mudanças: Linha 13
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:01:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:01:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:01:24 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Contact.jsx em 28/01/2025 20:01:24
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:08:23 | Mudanças: Linha 8
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:08:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:08:23 | Mudanças: Linha 8
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:08:23 | Mudanças: Linha 8
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:08:23 | Mudanças: Linha 8
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:08:24 | Mudanças: Linha 8
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:08:24 | Mudanças: Linha 8
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:08:25 | Mudanças: Linha 8
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:08:25 | Mudanças: Linha 8
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:08:26 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:08:26 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Contact.jsx em 28/01/2025 20:08:26
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:08:26 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Contact.jsx em 28/01/2025 20:08:26
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:09:07 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:09:07 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:09:08 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:09:08 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Contact.jsx em 28/01/2025 20:09:08
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:09:14 | Mudanças: Linha 10
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:09:14 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:09:14 | Mudanças: Linha 10
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:09:15 | Mudanças: Linha 10
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:09:15 | Mudanças: Linha 10
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:09:16 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:09:17 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:09:17 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Contact.jsx em 28/01/2025 20:09:17
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:07 | Mudanças: Linha 14
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:07 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:07 | Mudanças: Linha 14
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:08 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:08 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Contact.jsx em 28/01/2025 20:10:08
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:10 | Mudanças: Linha 16, Linha 15
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:10 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:11 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:11 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Contact.jsx em 28/01/2025 20:10:11
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:36 | Mudanças: Linha 14
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:36 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:36 | Mudanças: Linha 14
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:37 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:37 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Contact.jsx em 28/01/2025 20:10:37
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:38 | Mudanças: Linha 16
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:38 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:39 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:39 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Contact.jsx em 28/01/2025 20:10:39
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:40 | Mudanças: Linha 16, Linha 15
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:40 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:41 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Contact.jsx em 28/01/2025 20:10:41 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Contact.jsx em 28/01/2025 20:10:41
+Usuário: Desconhecido abriu o arquivo: index.d.ts em 28/01/2025 20:11:03
+Usuário: Desconhecido editou o arquivo: index.d.ts por 0 minutos e 0.01 segundos em 28/01/2025 20:11:03
+Usuário: Desconhecido fechou o arquivo: index.d.ts em 28/01/2025 20:11:03
+Usuário: Desconhecido abriu o arquivo: HeroSection.jsx em 28/01/2025 20:11:11
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:16 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:16 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:17 | Mudanças: Linha 5
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:17 | Mudanças: Linha 5
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:18 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:18 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: HeroSection.jsx em 28/01/2025 20:11:18
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:20 | Mudanças: Linha 5
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:20 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:21 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:21 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: HeroSection.jsx em 28/01/2025 20:11:21
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:23 | Mudanças: Linha 5
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:23 | Mudanças: Linha 5
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:24 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: HeroSection.jsx em 28/01/2025 20:11:24
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:24 | Mudanças: Linha 5
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:25 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:25 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: HeroSection.jsx em 28/01/2025 20:11:25
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:26 | Mudanças: Linha 5
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:26 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:26 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:27 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:27 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: HeroSection.jsx em 28/01/2025 20:11:27
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:28 | Mudanças: Linha 8, Linha 7
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:28 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:29 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:29 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: HeroSection.jsx em 28/01/2025 20:11:29
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:29 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:29 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:30 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:30 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:31 | Mudanças: Linha 5
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: HeroSection.jsx em 28/01/2025 20:11:31 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: HeroSection.jsx em 28/01/2025 20:11:31

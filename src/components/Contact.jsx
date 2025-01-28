@@ -4,17 +4,16 @@ const Contact = () => (
     <p>WhatsApp: 43 9 9911 - 4711</p>
     <p>E-mail: miriany.esposi@gmail.com</p>
     <div className="social-icons">
-      <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
-        <i className="fab fa-facebook"></i>
+      <a href="https://www.linkedin.com/in/mirianyesposi/" target="_blank" rel="noopener noreferrer">
+        <i className="fab fa-linkedin"></i>
       </a>
-      <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
-        <i className="fab fa-twitter"></i>
-      </a>
-      <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.instagram.com/mirianyesposi/" target="_blank" rel="noopener noreferrer">
         <i className="fab fa-instagram"></i>
       </a>
     </div>
-    <button className="contact-button">Vamos Conversar</button>
+    <a href="https://wa.me/5543999114711" target="_blank" rel="noopener noreferrer">
+      <button className="contact-button">Vamos Conversar</button>
+    </a>
   </section>
 );
 
