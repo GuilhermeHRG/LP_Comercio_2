@@ -83,6 +83,11 @@ const Login: React.FC = () => {
         <button onClick={handleGoogleLogin} className="google-login-button">
           <i className="fab fa-google"></i> Login com Google
         </button>
+        
+        {/* Botão de voltar */}
+        <button onClick={() => navigate("/")} className="back-button">
+          Voltar para o início
+        </button>
       </div>
     </div>
   );
