@@ -1,22 +1,33 @@
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './styles/styles.css';
-import Header from './components/Header';
-import HeroSection from './components/HeroSection';
-import Services from './components/Services';
-import Models from './components/Models';
-import Testimonials from './components/Testimonials';
-import Contact from './components/Contact';
-import Call from './components/Call';
+import Home from './pages/home';
+import Login from './components/login/login';
+import AdminPanel from './components/adminPanel/AdminPanel';
+import PrivateRoute from './routes/privateRoute';
 
 const App = () => (
-  <div className="App">
-    <Header />
-    <HeroSection />
-    <Call/>
-    <Services />
-    <Models />
-    <Testimonials />
-    <Contact />
-  </div>
+  <Router>
+    <Routes>
+      {/* Página inicial */}
+      <Route path="/" element={<Home />} />
+
+      {/* Rota para Login */}
+      <Route path="/login" element={<Login />} />
+
+      {/* Rota privada para Admin */}
+      <Route
+        path="/admin"
+        element={
+          <PrivateRoute>
+            <AdminPanel />
+          </PrivateRoute>
+        }
+      />
+
+      {/* Rota para páginas não encontradas */}
+      <Route path="*" element={<h1>404 - Página Não Encontrada</h1>} />
+    </Routes>
+  </Router>
 );
 
 export default App;

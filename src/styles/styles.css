@@ -54,6 +54,37 @@
   color: #555;
 }
 
+.logout-button {
+  background-color: #ff6b6b;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 12px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.logout-button:hover {
+  background-color: #ff4c4c;
+}
+.auth-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 12px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.auth-button:hover {
+  background-color: #0056b3;
+}
+
+
+
 /* Estilo da Hero Section */
 .hero-section {
   position: relative;
@@ -257,65 +288,51 @@
   cursor: pointer;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   position: relative;
-  background-image: url('../../green.png');
-  background-size: cover;
-  background-position: center;
-}
-.model-item2 {
-  background-color: #fff;
-  padding: 2rem;
-  border-radius: 12px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  width: 250px;
-  height: 400px;
-  text-align: center;
-  font-size: 1.5rem;
-  font-family: 'Georgia', serif;
-  color: #4e3629;
-  cursor: pointer;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  position: relative;
-  background-image: url('../../green-semft.png');
-  background-size: cover;
-  background-position: center;
-}
-.model-item3 {
-  background-color: #fff;
-  padding: 2rem;
-  border-radius: 12px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  width: 250px;
-  height: 400px;
-  text-align: center;
-  font-size: 1.5rem;
-  font-family: 'Georgia', serif;
-  color: #4e3629;
-  cursor: pointer;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  position: relative;
-  background-image: url('../../black.png');
-  background-size: cover;
-  background-position: center;
-}
-.model-item4 {
-  background-color: #fff;
-  padding: 2rem;
-  border-radius: 12px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  width: 250px;
-  height: 400px;
-  text-align: center;
-  font-size: 1.5rem;
-  font-family: 'Georgia', serif;
-  color: #4e3629;
-  cursor: pointer;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  position: relative;
-  background-image: url('../../vintage.png');
   background-size: cover;
   background-position: center;
 }
 
+.delete-button {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background-color: #ff6b6b;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s ease;
+}
+
+.delete-button:hover {
+  background-color: #ff4c4c;
+}
+
+.add-button {
+  background-color: #4CAF50; /* Cor verde */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+  display: block;
+  margin-top: 20px;
+  transition: background-color 0.3s ease;
+  margin-left: auto;
+  margin-right: 0;
+  /* Posicionando ao lado direito */
+}
+
+.add-button:hover {
+  background-color: #45a049; /* Tom de verde mais escuro no hover */
+}
 
 
 

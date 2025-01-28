@@ -1,0 +1,136 @@
+/* Login.css */
+
+/* Contêiner principal */
+.login-container {
+    text-align: center;
+    background-color: #001f3f; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #ffffff;
+}
+
+/* Formulário de login */
+.login-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color:   #003d80;
+    align-items: center;
+    background: linear-gradient(145deg, #e3e4e6, #ffffff); /* Efeito de gradiente sutil */
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+    width: 100%;
+    max-width: 400px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.login-form:hover {
+    transform: scale(1.02); /* Efeito de destaque ao passar o mouse */
+}
+
+/* Inputs do formulário */
+.login-input {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 16px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.login-input:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 8px rgba(0, 123, 255, 0.4);
+    outline: none;
+}
+
+/* Botão de login */
+.login-button {
+    width: 100%;
+    padding: 12px;
+    background-color: #0056b3;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.login-button:hover {
+    background-color: #003d80;
+    transform: translateY(-2px);
+}
+
+/* Rodapé opcional */
+.login-footer {
+    margin-top: 15px;
+    font-size: 14px;
+    color: #bbb;
+}
+
+.login-footer a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.login-footer a:hover {
+    text-decoration: underline;
+}
+
+/* Consultas de mídia para responsividade */
+@media (max-width: 600px) {
+  
+    .login-form {
+        width: 80%;
+        padding: 20px;
+        margin: 10px;
+    }
+
+    .login-input,
+    .login-button {
+        font-size: 14px;
+        padding: 10px;
+        width: 80%;
+    }
+
+}
+
+.google-login-button {
+    background: linear-gradient(45deg, #4285F4, #34A853, #FBBC05, #DB4437); /* Gradiente com as cores do Google */
+    color: white; /* Texto branco */
+    border: none; /* Sem borda */
+    padding: 12px 20px; /* Espaçamento interno */
+    font-size: 16px; /* Tamanho da fonte */
+    font-weight: bold; /* Peso da fonte */
+    cursor: pointer; /* Cursor de mão */
+    border-radius: 5px; /* Cantos arredondados */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto; /* Ajusta automaticamente ao conteúdo */
+    margin-top: 8px;
+    transition: background-color 0.3s ease, transform 0.2s ease; /* Animação suave na cor do fundo */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06); /* Sombra leve */
+  }
+  .google-login-button:hover {
+    background-color: #357AE8; /* Cor do hover (mais escuro) */
+  }
+  
+  .google-login-button:focus {
+    outline: none; /* Retira o contorno do foco */
+  }
+  
+  .google-login-button i {
+    margin-right: 10px; /* Espaçamento entre o ícone e o texto */
+    font-size: 20px; /* Tamanho do ícone */
+  }
+  
+  
