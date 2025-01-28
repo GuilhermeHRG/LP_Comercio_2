@@ -4320,3 +4320,5 @@ Usuário: Desconhecido abriu o arquivo: package.json em 28/01/2025 19:34:40
 Usuário: Desconhecido abriu o arquivo: cors.json em 28/01/2025 19:36:20
 Usuário: Desconhecido editou o arquivo: cors.json por 0 minutos e 39.46 segundos em 28/01/2025 19:36:59
 Usuário: Desconhecido fechou o arquivo: cors.json em 28/01/2025 19:36:59
+Usuário: Desconhecido fechou o arquivo: package.json em 28/01/2025 19:37:40
+Usuário: Desconhecido abriu o arquivo: login.tsx em 28/01/2025 19:51:20
