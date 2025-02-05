@@ -1,8 +1,6 @@
 const Call = () => (
-    <section className="call">
+    <section className="call" id="call">
       
-  
-        
         <div className="white-space">
           <p>Personalize o convite para o dia mais feliz da sua vida</p>
         </div>

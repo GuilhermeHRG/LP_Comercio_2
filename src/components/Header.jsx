@@ -35,11 +35,11 @@ const Header = () => {
     <header className="header">
       <nav>
         <ul className="menu">
-          <li>Convites Digitais</li>
-          <li>Home</li>
-          <li>Produto</li>
-          <li>Galeria</li>
-          <li>Sobre nós</li>
+        <li><a href="#hero-section">Home</a></li>
+          <li><a href="#models">Convites</a></li>
+          <li><a href="#services">Produto</a></li>
+          <li><a href="#galeria">Galeria</a></li>
+          <li><a href="#sobre-nos">Sobre nós</a></li>
           <li>
             {user ? (
               <button className="auth-button" onClick={handleLogout}>

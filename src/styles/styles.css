@@ -540,25 +540,155 @@
   .social-icons a:hover {
     color: #a1895f; /* Escurece no hover */
   }
-  
-  @media (min-width: 768px) {
-    .contact {
-      padding: 5rem 3rem; /* Mais espaçamento para telas maiores */
-    }
-  
-    .contact h2 {
-      font-size: 3.5rem; /* Título maior */
-    }
-  
-    .contact p {
-      font-size: 1.3rem; /* Texto mais legível */
-    }
-  
-    .contact-button {
-      font-size: 1.3rem;
-    }
+ /* Consultas de mídia para responsividade */
+@media (max-width: 1024px) {
+  .header {
+    padding: 15px 30px;
   }
+
+  .header .menu {
+    gap: 20px;
+  }
+
+  .hero-section h1 {
+    font-size: 36px;
+  }
+
+  .hero-section p {
+    font-size: 18px;
+  }
+
+  .hero-section .cta-button {
+    padding: 10px 20px;
+  }
+
+  .services h2 {
+    font-size: 2rem;
+  }
+
+  .services li {
+    font-size: 1.1rem;
+    padding: 1.2rem;
+  }
+
+  .call .white-space p {
+    font-size: 2rem;
+  }
+
+  .model-item1 {
+    width: 200px;
+    height: 350px;
+  }
+
+  .add-button {
+    padding: 8px 15px;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 768px) {
   
+  .hero-section {
+    padding: 0 10px;
+  }
+
+  .hero-section h1 {
+    font-size: 28px;
+  }
+
+  .hero-section p {
+    font-size: 16px;
+  }
+
+  .services ul {
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  }
+
+  .call {
+    flex-direction: column;
+  }
+
+  .call .image-container,
+  .call .white-space {
+    width: 100%;
+    height: auto;
+  }
+
+  .call .white-space p {
+    font-size: 1.5rem;
+  }
+
+  .model-item1 {
+    width: 180px;
+    height: 300px;
+  }
+
+  .add-button {
+    font-size: 12px;
+    padding: 6px 10px;
+  }
+}
+
+@media (max-width: 480px) {
   
-  
-  
+
+  .hero-section h1 {
+    font-size: 24px;
+  }
+
+  .hero-section p {
+    font-size: 14px;
+  }
+
+  .hero-section .cta-button {
+    padding: 8px 15px;
+    font-size: 14px;
+  }
+
+  .services h2 {
+    font-size: 1.5rem;
+  }
+
+  .services li {
+    font-size: 1rem;
+    padding: 1rem;
+  }
+
+  .call .white-space p {
+    font-size: 1.2rem;
+  }
+
+  .model-item1 {
+    width: 160px;
+    height: 260px;
+  }
+
+  .add-button {
+    padding: 5px 8px;
+    font-size: 12px;
+  }
+}
+
+
+@media (max-width: 768px) {
+  .header {
+    padding: 10px 15px; 
+  }
+
+  .header .logo {
+    font-size: 20px; 
+  }
+
+  .header .menu {
+    gap: 15px; 
+  }
+
+  .header .menu li {
+    font-size: 14px; 
+  }
+
+  .auth-buttons button {
+    font-size: 12px; 
+    padding: 6px 10px; 
+  }
+}

@@ -1,6 +1,6 @@
 import '../styles/styles.css'
 const Testimonials = () => (
-  <section className="testimonials">
+  <section className="testimonials" id='testimonials'>
     <h2>Feedback dos nossos clientes</h2>
     <div className="testimonials-grid">
       <blockquote>

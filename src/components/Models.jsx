@@ -55,7 +55,7 @@ const Models = () => {
   };
 
   return (
-    <section className="models">
+    <section className="models" id="models">
       <h2>Nossos Modelos</h2>
       <div className="model-list">
         {models.map((model) => (
